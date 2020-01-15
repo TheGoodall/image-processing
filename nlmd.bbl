@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+
+\bibitem{nlmd}
+Jean-Michel~Morel Antoni~Buades, Bartomeu~Coll.
+\newblock Non-local means denoising.
+\newblock {\em Image Processing On Line}, 2011.
+
+\bibitem{Buades_2005}
+A.~Buades, B.~Coll, and J.~M. Morel.
+\newblock A review of image denoising algorithms, with a new one.
+\newblock {\em Multiscale Modeling {\&} Simulation}, 4(2):490--530, jan 2005.
+
+\bibitem{anlafid}
+Antoni Buades, Bartomeu Coll, and Jean-Michel Morel.
+\newblock A non-local algorithm for image denoising.
+\newblock In {\em IN CVPR}, pages 60--65, 2005.
+
+\bibitem{dip20}
+Alan Saberi.
+\newblock Digital image processing: p020 - non-local means.
+\newblock {https://www.youtube.com/watch?v=9tUns4HYtcw}, 2013.
+
+\end{thebibliography}
