@@ -3,44 +3,46 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: nlmd.aux
 The style file: plain.bst
 Database file #1: research.bib
-You've used 4 entries,
+Warning--empty year in Buades
+You've used 6 entries,
             2118 wiz_defined-function locations,
-            519 strings with 4532 characters,
-and the built_in function-call counts, 1246 in all, are:
-= -- 121
-> -- 50
-< -- 1
-+ -- 22
-- -- 16
-* -- 76
-:= -- 208
-add.period$ -- 12
-call.type$ -- 4
-change.case$ -- 20
+            536 strings with 5096 characters,
+and the built_in function-call counts, 1811 in all, are:
+= -- 173
+> -- 87
+< -- 0
++ -- 37
+- -- 28
+* -- 116
+:= -- 313
+add.period$ -- 22
+call.type$ -- 6
+change.case$ -- 32
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 49
-empty$ -- 105
-format.name$ -- 16
-if$ -- 262
+cite$ -- 7
+duplicate$ -- 77
+empty$ -- 157
+format.name$ -- 28
+if$ -- 381
 int.to.chr$ -- 0
-int.to.str$ -- 4
-missing$ -- 3
-newline$ -- 23
-num.names$ -- 8
-pop$ -- 25
+int.to.str$ -- 6
+missing$ -- 6
+newline$ -- 33
+num.names$ -- 12
+pop$ -- 42
 preamble$ -- 1
-purify$ -- 16
+purify$ -- 26
 quote$ -- 0
-skip$ -- 38
+skip$ -- 40
 stack$ -- 0
-substring$ -- 71
-swap$ -- 12
-text.length$ -- 1
+substring$ -- 58
+swap$ -- 10
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 16
-warning$ -- 0
-while$ -- 13
-width$ -- 5
-write$ -- 44
+type$ -- 24
+warning$ -- 1
+while$ -- 14
+width$ -- 7
+write$ -- 67
+(There was 1 warning)

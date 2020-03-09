@@ -1,23 +1,38 @@
 \begin{thebibliography}{1}
 
-\bibitem{nlmd}
-Jean-Michel~Morel Antoni~Buades, Bartomeu~Coll.
-\newblock Non-local means denoising.
-\newblock {\em Image Processing On Line}, 2011.
+\bibitem{Buades}
+A.~Buades, B.~Coll, and J.-M. Morel.
+\newblock A non-local algorithm for image denoising.
+\newblock In {\em 2005 {IEEE} Computer Society Conference on Computer Vision
+  and Pattern Recognition ({CVPR}05)}. {IEEE}.
 
 \bibitem{Buades_2005}
 A.~Buades, B.~Coll, and J.~M. Morel.
 \newblock A review of image denoising algorithms, with a new one.
 \newblock {\em Multiscale Modeling {\&} Simulation}, 4(2):490--530, jan 2005.
 
-\bibitem{anlafid}
+\bibitem{Buades_2011}
 Antoni Buades, Bartomeu Coll, and Jean-Michel Morel.
-\newblock A non-local algorithm for image denoising.
-\newblock In {\em IN CVPR}, pages 60--65, 2005.
+\newblock Non-local means denoising.
+\newblock {\em Image Processing On Line}, 1, sep 2011.
 
-\bibitem{dip20}
-Alan Saberi.
-\newblock Digital image processing: p020 - non-local means.
-\newblock {https://www.youtube.com/watch?v=9tUns4HYtcw}, 2013.
+\bibitem{Dehghannasiri_2013}
+Roozbeh Dehghannasiri and Shahram Shirani.
+\newblock A view interpolation method without explicit disparity estimation.
+\newblock In {\em 2013 {IEEE} International Conference on Multimedia and Expo
+  Workshops ({ICMEW})}. {IEEE}, jul 2013.
+
+\bibitem{Martinello_2012}
+M.~Martinello and P.~Favaro.
+\newblock Depth estimation from a video sequence with moving and deformable
+  objects.
+\newblock In {\em {IET} Conference on Image Processing ({IPR} 2012)}. {IET},
+  2012.
+
+\bibitem{Tasdizen_2008}
+Tolga Tasdizen.
+\newblock Principal components for non-local means image denoising.
+\newblock In {\em 2008 15th {IEEE} International Conference on Image
+  Processing}. {IEEE}, 2008.
 
 \end{thebibliography}
